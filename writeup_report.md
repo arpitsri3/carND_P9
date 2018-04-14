@@ -44,5 +44,5 @@ Now, as the environmental factors are mostly negligible i kept the integral gain
 #### 1. Briefly discuss what could you do to make the implementation more robust?
 
 
-The result has a for improvement . There are a couple of hyperparameter tuning algorithms , which i'd like to try out (once i understand them better) to make the solution robust and make the control as smooth as possible. I feel that manual tuning is really not the best of the ways for implementation even though it is a bit intuitive.
+The result has a room for improvement . There are a couple of hyperparameter tuning algorithms , which i'd like to try out (once i understand them better) to make the solution robust and make the control as smooth as possible. I feel that manual tuning is really not the best of the ways for implementation even though it is a bit intuitive.
 
